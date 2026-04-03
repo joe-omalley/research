@@ -1,6 +1,3 @@
-Here is the entire paper as a single, self-contained Markdown document. [ibm](https://www.ibm.com/docs/en/security-verify?topic=provider-configuring-verify-tenant)
-
-```markdown
 # Public Key Verification Material Migration to IBM Security Verify SaaS
 
 ## Executive summary
